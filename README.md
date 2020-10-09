@@ -1,2 +1,3 @@
 # 100-Days-of-Code-Challenge
-Repo for tracking progress on this public challenge
+
+Something interesting will go here one day, today is not that day. 
